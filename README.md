@@ -21,3 +21,7 @@ This is a simple URL shortener application built using HTML, CSS, and JavaScript
 2. style.css: The CSS file containing the styles for the application's layout and appearance.
 3. script.js: The JavaScript file with the logic for URL shortening and handling user interactions.
 4. README.md: The file you are currently reading, containing information about the URL shortener and how to use it.
+
+## Screenshots
+
+![image](https://github.com/thepratikshrote/url_shortener_shortly/assets/139691671/299557ab-34b4-4373-baf1-46fa5a66d400)
